@@ -30,6 +30,12 @@ Simple Example Blog with Django 2.0
     $ python manage.py createsuperuser
 ```
 
+## Getting Fixtures
+
+```
+    $ python manage.py loaddata data.json 
+```
+
 ## Run App
 ```
     $ python manage.py runserver
