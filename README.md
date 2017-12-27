@@ -1,5 +1,7 @@
 # Django2SimpleBlog
 
+[![Build Status](https://travis-ci.org/Tony133/Django2SimpleBlog.svg?branch=master)](https://travis-ci.org/Tony133/Django2SimpleBlog)
+
 Simple Example Blog with Django 2.0
 
 ## Create Virtual Environment
