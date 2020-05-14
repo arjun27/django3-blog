@@ -4,7 +4,7 @@ python:
   - "3.6"
   
 env:
-  - DJANGO=2.0
+  - DJANGO=3.0
 
 install:
   - pip install django==$DJANGO
