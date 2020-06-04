@@ -1,6 +1,6 @@
 # Django3Blog
 
-[![Build Status](https://travis-ci.org/Tony133/Django3Blog.svg?branch=master)](https://travis-ci.org/Tony133/Django3Blog)
+[![Build Status](https://travis-ci.org/Tony133/django3-blog.svg?branch=master)](https://travis-ci.org/Tony133/django3-blog)
 
 Simple Example Blog with Django 3.0
 
