@@ -45,3 +45,11 @@ Simple Example Blog with Django 3.0
 ```
     $ python manage.py runserver
 ```
+
+# Playwright
+
+```
+pip install playwright
+python -m playwright install
+python manage.py test
+```
